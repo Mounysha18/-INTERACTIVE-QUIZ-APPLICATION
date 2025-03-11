@@ -43,5 +43,5 @@ interactive-quiz/
 - Update `script.js` to add new functionalities.
 
 ## License
-This project is open-source and available under the [MIT License](LICENSE)
+This project is open-source.
 
