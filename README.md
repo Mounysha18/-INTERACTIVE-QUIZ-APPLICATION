@@ -31,7 +31,6 @@ This is an interactive quiz application built using frontend technologies. It al
 
 
 ## Folder Structure
-```
 interactive-quiz/
 │── index.html
 │── style.css
